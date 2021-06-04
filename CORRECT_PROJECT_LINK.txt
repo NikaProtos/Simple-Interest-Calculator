@@ -1,0 +1,2 @@
+Please use the link below to run the project:
+https://nikaprotos.github.io/Simple-Interest-Calculator/
